@@ -6,7 +6,7 @@ fonts into svg sprite files.
 
 ## Demo Website
 
-[https://diafygi.github.io/svg-font-to-svg-sprite-converter/examples/](https://diafygi.github.io/svg-font-to-svg-sprite-converter/examples)
+[https://diafygi.github.io/svg-font-to-svg-sprite-converter/examples/](https://diafygi.github.io/svg-font-to-svg-sprite-converter/examples/)
 
 ## Example icon fonts that have been converted
 
