@@ -12,6 +12,7 @@ fonts into svg sprite files.
 
 * Font Awesome v4.7.0 - [sprite-fontawesome-4.7.0.svg](examples/sprite-fontawesome-4.7.0.svg)
 * Glyphicons (from Bootstrap 3.3.7) - [sprite-bootstrap-3.3.7-glyphicons.svg](examples/sprite-bootstrap-3.3.7-glyphicons.svg)
+* Material Icons 2.2.0 [sprites-materialicons-regular-2.2.0.svg](examples/sprites-materialicons-regular-2.2.0.svg)
 
 ## Manual
 
@@ -47,9 +48,5 @@ optional arguments:
 
 ## License
 
-The script is released under the MIT license. The example files for
-[Bootstrap 3.3.7 Glyphicons](https://getbootstrap.com/docs/3.3/components/#glyphicons)
-and
-[Font Awesome 4.7.0](https://fontawesome.com/v4.7.0/)
-are also open source.
+The script is released under the MIT license. The example files for [Bootstrap 3.3.7 Glyphicons](https://getbootstrap.com/docs/3.3/components/#glyphicons), [Font Awesome 4.7.0](https://fontawesome.com/v4.7.0/) and [Material Icons 2.2.0](https://github.com/google/material-design-icons/tree/master/iconfont) are also open source.
 
