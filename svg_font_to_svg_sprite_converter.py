@@ -29,7 +29,7 @@ def convert_svg_font_to_svg_sprite(svg_font, css_file=None, offset_relative=Fals
     # build map of glyph paths
     counter = -1
     for glyph_match in re.finditer(
-        "<glyph[^>]+unicode\s*=\s*(?:\"|\')([^;\"\']+);*(?:\"|\')[^>]+d\s*=\s*(?:\"|\')([^\"]+)(?:\"|\')[^>]+>",
+        "<glyph[^>]+unicode\s*=\s*(?:\"|\')([^\"\']+);*(?:\"|\')[^>]+d\s*=\s*(?:\"|\')([^\"]+)(?:\"|\')[^>]+>",
         font_raw,
         re.IGNORECASE|re.MULTILINE
     ):
